@@ -1,0 +1,12 @@
+{
+  "capabilities": {
+    "browserName": "chrome",
+    "goog:chromeOptions": {
+      "binary": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome",
+      "args": [
+        "--headless",
+        "--disable-gpu"
+      ]
+    }
+  }
+}
